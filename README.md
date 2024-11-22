@@ -5,8 +5,8 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado de la **programación**, **m
 ## 🔧 Tecnologías y Herramientas
 
 - **Lenguajes de Programación**: JavaScript, SQL , HTML/CSS
-- **Frameworks**: React, Django, Flask
-- **Herramientas**: Git, GitHub, VSCode, Jupyter, Docker
+- **Frameworks**: React, Scss, Bootstrap.
+- **Herramientas**: Git, GitHub, VSCode, Node.
 
 ## 🌱 Proyectos actuales
 - **SNTYCG**: Mi proyecto web personal para ayudar a los demás.  
