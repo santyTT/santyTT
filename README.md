@@ -21,8 +21,7 @@ Soy estudiante y entusiasta del desarrollo, siempre buscando mejorar en **matem�
 - **Inglés**: Mejorando mis habilidades en el idioma para expandir mi alcance en tecnología.
 
 ## 📬 Conéctemos
-- [Twitter](https://twitter.com/SantyExample)
-- [LinkedIn](https://www.linkedin.com/in/SantyExample)
-- [Mi Blog de Desarrollo](https://www.santyexample.com)
 
-¡Vamos a construir cosas increíbles STAY HARD !
+- [Correo](santiprocastellar7@gmail.com)
+  
+¡Vamos a construir cosas increíbles !
