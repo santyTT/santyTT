@@ -1,27 +1,27 @@
-# ¡Hola! Soy Santy 👨‍💻
+# Hi! I'm Santy 👨‍💻
 
-Bienvenido a mi perfil de GitHub. Soy un apasionado de la **programación**, **matemáticas**, y el **desarrollo personal**. Actualmente, estoy explorando nuevas tecnologías y herramientas, y siempre en busca de mejorar mis habilidades.
+Welcome to my GitHub profile. I'm passionate about **programming**, **mathematics**, and **personal development**. Currently, I'm exploring new technologies and tools, always striving to improve my skills.
 
-## 🔧 Tecnologías y Herramientas
+## 🔧 Technologies and Tools
 
-- **Lenguajes de Programación**: HTML/CSS, JavaScript
-- **Frameworks**: Scss, Bootstrap.
-- **Herramientas**: Git, GitHub, VSCode.
+- **Programming Languages**: HTML/CSS, JavaScript  
+- **Frameworks**: Scss, Bootstrap  
+- **Tools**: Git, GitHub, VSCode  
 
-## 🌱 Proyectos actuales
-- **SNTYCG**: Mi proyecto web personal para ayudar a los demás.  
-- **Algoritmos y Data Structures**: Mejorando mis habilidades de programación con desafíos de algoritmos.
+## 🌱 Current Projects
+- **SNTYCG**: My personal web project aimed at helping others.  
+- **Algorithms and Data Structures**: Improving my programming skills with algorithm challenges.
   
-## 💻 Acerca de mí
-Soy estudiante y entusiasta del desarrollo, siempre buscando mejorar en **matemáticas**. Me gusta aprender constantemente, resolver problemas y trabajar en proyectos interesantes. Siempre trato de mantener una mentalidad de **"Stay Hard"** para seguir superando mis límites.
+## 💻 About Me
+I'm a student and development enthusiast, always looking to improve in **mathematics**. I enjoy learning continuously, solving problems, and working on interesting projects. I always try to maintain a **"Stay Hard"** mindset to keep pushing my limits.
 
-## 📚 Lo que estoy aprendiendo
-- **Desarrollo web**: Aprendiendo más sobre **React** y cómo crear aplicaciones web interactivas.
-- **Machine Learning**: Introducción a la inteligencia artificial y redes neuronales.
-- **Inglés**: Mejorando mis habilidades en el idioma para expandir mi alcance en tecnología.
+## 📚 What I'm Learning
+- **Web Development**: Learning more about **React** and how to build interactive web applications.
+- **Machine Learning**: Introduction to Artificial Intelligence and neural networks.
+- **English**: Improving my language skills to expand my reach in technology.
 
-## 📬 Conéctemos
+## 📬 Let's Connect
 
-- Correo : santiprocastellar7@gmail.com
+- Email: santiprocastellar7@gmail.com
   
-¡Vamos a construir cosas increíbles !
+Let's build amazing things together!
