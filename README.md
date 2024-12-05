@@ -22,6 +22,6 @@ Soy estudiante y entusiasta del desarrollo, siempre buscando mejorar en **matem�
 
 ## 📬 Conéctemos
 
-- [Correo](santiprocastellar7@gmail.com)
+- Correo : santiprocastellar7@gmail.com
   
 ¡Vamos a construir cosas increíbles !
