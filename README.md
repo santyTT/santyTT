@@ -1,12 +1,12 @@
-# Hi! I'm Santy 👨‍💻
+# Hi! I'm Santy
 
 Welcome to my GitHub profile. I'm passionate about **programming**, **mathematics**, and **personal development**. Currently, I'm exploring new technologies and tools, always striving to improve my skills.
 
 ## 🔧 Technologies and Tools
 
 - **Programming Languages**: HTML/CSS, JavaScript  
-- **Frameworks**: Scss, Bootstrap  
-- **Tools**: Git, GitHub, VSCode  
+- **Frameworks**: Scss, Bootstrap, React, React native.
+- **Tools**: Git, GitHub, VSCode, cursor, cmd.  
 
 ## 🌱 Current Projects
 - **SNTYCG**: My personal web project aimed at helping others.  
